@@ -102,14 +102,6 @@ streamlit run app.py
 
 ---
 
-## Dataset
-
-Source: [UCI Heart Disease Dataset via Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
-
-918 patient records with 11 clinical features.
-
----
-
 ## Author
 
 **Manav**  
