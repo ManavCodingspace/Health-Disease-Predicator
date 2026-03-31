@@ -78,8 +78,8 @@ heart-disease-predictor/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/heart-disease-predictor.git
-cd heart-disease-predictor
+git clone https://github.com/ManavCodingspace/Health-Disease-Predicator.git
+cd Heart-Disease-Predictor
 ```
 
 **2. Install dependencies**
@@ -113,5 +113,3 @@ Source: [UCI Heart Disease Dataset via Kaggle](https://www.kaggle.com/datasets/f
 ## Author
 
 **Manav**  
-Connect on [LinkedIn](https://www.linkedin.com/in/your-profile)  
-GitHub: [@your-username](https://github.com/your-username)
